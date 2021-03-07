@@ -102,9 +102,3 @@ def compare_net(epoch, net=False, optim=False):
 
 
 start()
-# compare_net(epoch=50, net=True, optim=False)
-# for each in net_dict.keys():
-#     start(each, train=False)
-#
-# plt.legend()
-# plt.show()
