@@ -100,5 +100,4 @@ def compare_net(epoch, net=False, optim=False):
         for each in optim_dict.keys():
             start(OPTIMIZER=each)
 
-
 start()
